@@ -1,0 +1,180 @@
+{
+  "common": {
+    "i18n": "Multi Bahasa",
+    "abbreviations": "In",
+    "current_language": "Bahasa Indonesia",
+    "try_again": "Coba lagi",
+    "cancel": "Batal",
+    "continue": "Lanjutkan",
+    "close": "Tutup",
+    "save": "Simpan",
+    "edit": "Edit",
+    "delete": "Hapus",
+    "delete_success": "Berhasil dihapus!",
+    "search": "Cari"
+  },
+  "theme": {
+    "toggle": "Ubah tema",
+    "light": "Terang",
+    "dark": "Gelap",
+    "system": "Sistem"
+  },
+  "login": {
+    "title": "Masuk",
+    "description": "Masukkan token situs Anda untuk masuk",
+    "tips": "Tips",
+    "preview_token": "Token situs untuk mode pratinjau adalah",
+    "submit": "Masuk",
+    "failed": "Gagal masuk, silakan coba lagi"
+  },
+  "logout": {
+    "title": "Keluar?",
+    "confirm": "Apakah Anda yakin ingin keluar?",
+    "action": "Keluar"
+  },
+  "layouts": {
+    "footer": {
+      "copyright": "Produk dari HTML.ZONE",
+      "social": {
+        "email": "Email",
+        "telegram": "Telegram",
+        "blog": "Blog",
+        "twitter": "Twitter",
+        "mastodon": "Mastodon",
+        "github": "GitHub"
+      }
+    },
+    "header": {
+      "select_language": "Pilih Bahasa"
+    }
+  },
+  "nav": {
+    "links": "Tautan",
+    "analysis": "Analisis",
+    "realtime": "Waktu Nyata"
+  },
+  "home": {
+    "features": {
+      "title": "Fitur",
+      "subtitle": "Fungsi yang sederhana dan cukup",
+      "url_shortening": {
+        "title": "Pemendek URL",
+        "description": "Perpendek URL Anda hingga panjang minimal"
+      },
+      "analytics": {
+        "title": "Analitik",
+        "description": "Pantau analitik tautan dan kumpulkan statistik yang berguna"
+      },
+      "serverless": {
+        "title": "Tanpa Server",
+        "description": "Lakukan penyebaran tanpa memerlukan server tradisional"
+      },
+      "customizable_slug": {
+        "title": "Slug yang Dapat Disesuaikan",
+        "description": "Dukungan untuk slug pribadi dan sensitif huruf besar-kecil"
+      },
+      "ai_slug": {
+        "title": "Slug AI",
+        "description": "Gunakan AI untuk membuat slug"
+      },
+      "link_expiration": {
+        "title": "Kedaluwarsa Tautan",
+        "description": "Atur tanggal kedaluwarsa untuk tautan Anda"
+      }
+    },
+    "cta": {
+      "title": "Langsung Sebar",
+      "description": "Hanya dengan beberapa klik, Anda bisa langsung melakukan penyebaran tanpa biaya",
+      "button": "Mulai Sebar"
+    },
+    "logos": {
+      "title": "Dibangun dengan teknologi luar biasa"
+    },
+    "twitter": {
+      "follow": "Ikuti saya di X(Twitter)"
+    }
+  },
+  "dashboard": {
+    "title": "Dasbor",
+    "visits": "Kunjungan",
+    "views": "Tampilan",
+    "visitors": "Pengunjung",
+    "referers": "Perujuk",
+    "stats": "Statistik",
+    "custom_date": "Tanggal Kustom",
+    "date": "Tanggal",
+    "date_range": "Rentang Tanggal",
+    "locations": "Lokasi",
+    "details": "Detail",
+    "name": "Nama",
+    "count": "Jumlah",
+    "loading": "Memuat",
+    "no_data": "Tidak Ada Data",
+    "none": "(Kosong)",
+    "filter_placeholder": "Filter tautan...",
+    "date_picker": {
+      "today": "Hari Ini",
+      "last_24h": "24 jam terakhir",
+      "this_week": "Minggu ini",
+      "last_7d": "7 hari terakhir",
+      "this_month": "Bulan ini",
+      "last_30d": "30 hari terakhir",
+      "last_90d": "90 hari terakhir",
+      "custom": "Kustom",
+      "custom_title": "Tanggal Kustom",
+      "single_date": "Tanggal",
+      "date_range": "Rentang Tanggal"
+    },
+    "metrics": {
+      "country": "Negara",
+      "region": "Wilayah",
+      "city": "Kota",
+      "referer": "Perujuk",
+      "slug": "Slug",
+      "language": "Bahasa",
+      "timezone": "Zona Waktu",
+      "device": "Perangkat",
+      "deviceType": "Tipe Perangkat",
+      "os": "Sistem Operasi",
+      "browser": "Peramban",
+      "browserType": "Tipe Peramban"
+    },
+    "time_picker": {
+      "today": "Hari Ini",
+      "last_5m": "5 menit terakhir",
+      "last_10m": "10 menit terakhir",
+      "last_30m": "30 menit terakhir",
+      "last_1h": "1 jam terakhir",
+      "last_6h": "6 jam terakhir",
+      "last_12h": "12 jam terakhir",
+      "last_24h": "24 jam terakhir"
+    }
+  },
+  "links": {
+    "create": "Buat Tautan",
+    "edit": "Edit Tautan",
+    "delete_confirm_title": "Apakah Anda benar-benar yakin?",
+    "delete_confirm_desc": "Tindakan ini tidak dapat dibatalkan. Ini akan benar-benar menghapus tautan Anda dari server.",
+    "delete_success": "Berhasil dihapus!",
+    "update_success": "Tautan berhasil diperbarui",
+    "create_success": "Tautan berhasil dibuat",
+    "preview_mode_tip": "Tautan mode pratinjau berlaku hingga 5 menit.",
+    "search_placeholder": "Cari tautan...",
+    "no_results": "Tidak ada tautan ditemukan.",
+    "group_title": "Tautan",
+    "copy_success": "Berhasil disalin!",
+    "created_at": "Dibuat Pada",
+    "updated_at": "Diperbarui Pada",
+    "expires_at": "Kedaluwarsa Pada",
+    "no_more": "Tidak ada tautan lagi",
+    "load_failed": "Gagal memuat tautan,",
+    "download_qr_code": "Unduh Kode QR",
+    "sort": {
+      "newest": "Terbaru",
+      "oldest": "Terlama",
+      "az": "Slug A-Z",
+      "za": "Slug Z-A",
+      "tip": "Pengalaman: Hanya untuk tautan yang dimuat"
+    }
+  }
+}

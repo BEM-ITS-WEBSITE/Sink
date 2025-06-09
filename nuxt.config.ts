@@ -3,6 +3,15 @@ import { currentLocales } from './i18n/i18n'
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  app: {
+    head: {
+      title: 'BEM ITS SHORTENER',
+      meta: [
+        { name: 'description', content: 'BEM ITS SHORTENER is a link shortener service developed by BEM ITS, designed to make sharing links easier, faster, and more secure for the ITS community.' },
+        { name: 'keywords', content: 'BEM ITS, Shortener, Link Shortener, BEM ITS SHORTENER, Shortener BEM ITS, Ronakarya Shortener, Link Shortener bem its, bem its shortener' },
+      ],
+    },
+  },
   modules: [
     '@nuxthub/core',
     'shadcn-nuxt',
